@@ -1,12 +1,12 @@
-
 {
-"name": "wp-gulp-automation",
-"version": "1.0.0",
-"description": "",
-"main": "index.js",
-"scripts": {
-	"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "",
-	"license": "ISC"
+  "name": "mydevworkflow",
+  "version": "0.0.1",
+  "description": "A project to showcase the workflow by professionals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treeWater/mydevworkflow.git"
+  },
+  "author": "Thomas Chang",
+
 }
