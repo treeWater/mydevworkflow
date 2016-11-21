@@ -80,7 +80,7 @@ var $, fill;
 
 $ = require('jquery');
 
-(fill = function(item) {})('The most creative minds in Art');
+(fill = function(item) {})('The Cretative Minds In Art');
 
 $('.tagline').append("" + item);
 
