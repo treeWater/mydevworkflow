@@ -94,9 +94,7 @@ $(function() {
 		var html = Mustache.to_html(template, data);
 		$('#speakers').html(html);
   }); //getJSON
-
 }); //function
-
 // Javascript and JSON course by Ray
 },{"jquery":2,"mustache":3}],2:[function(require,module,exports){
 /*!
